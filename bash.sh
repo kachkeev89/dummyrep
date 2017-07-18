@@ -1,3 +1,5 @@
 #!/bin/bash
 
-Ulan Kachkeev
+echo "Ulan Kachkeev"
+
+echo "This is another line"
